@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="img.png" width="750">
 - 🔭  I’m currently working on Creating and Hosting Website (HTML,CSS,JS)
 - 🌱  I’m currently learning Python...
 - 👯  I’m looking to collaborate on Python GUI Applications (Beginner)
