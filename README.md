@@ -1,5 +1,7 @@
+[![MasterHead](img1.png)]
 <h1 align="center">Hi 👋, I'm Ansu Sinha</h1>
 <h3 align="center">A passionate Web Developer from India.</h3>
+
 
 <img src="img1.png" width="650">
 
