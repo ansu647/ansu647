@@ -1,9 +1,9 @@
-<iframe src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="480" height="426" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l">
+<img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" width="700" align="center">
 <h1 align="center">Hi 👋, I'm Ansu Sinha</h1>
 <h3 align="center">A passionate Web Developer from India.</h3>
 
-
 <img src="img1.png" width="650">
+<img src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif" width="350" align="right">
 
 - 🔭 I’m currently working on **Creating and Hosting Website (HTML,CSS,JS)**
 
