@@ -24,7 +24,7 @@
 
    def currently
      {
-       studying: [ 'C', 'C++', 'Swift' ],
+       studying: [ 'C', 'C++', 'Java' ],
        working on: [ 'App Development', 'Web Development' ]
       }
    end
