@@ -15,7 +15,6 @@
 ```yaml
 name: Ansu Sinha
 pronouns: He/Him
-located_in: New Delhi, India
 
 education:
   degree: B.Tech in Computer Science & Engineering
@@ -127,27 +126,6 @@ open_to: Internships | Research Collaborations | Hybrid/Remote Roles
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ansu647&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ansu647&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6600&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansu647&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansu647&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -169,5 +147,5 @@ open_to: Internships | Research Collaborations | Hybrid/Remote Roles
 ---
 
 <p align="center">
-  <i>"Building the shield that protects the sky." 🛡️✈️</i>
+  <i>"Building the shield that protects the sky."🛡️✈️</i>
 </p>
