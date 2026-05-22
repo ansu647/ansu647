@@ -1,12 +1,12 @@
 <!-- BANNER -->
-<img src="banner.png" width="100%">
+<!-- <img src="banner.png" width="100%">
 
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Aerospace+Software+%26+UAV+Security+Enthusiast+%E2%9C%88%EF%B8%8F;AI%2FML+%7C+Cybersecurity+%7C+Drone+Systems+%F0%9F%9B%A1%EF%B8%8F%F0%9F%A4%96;Ex-DRDO+Intern+%7C+Corporate+Lead+%40+PlacFy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Aerospace+Software+%26+UAV+Security+Enthusiast+%E2%9C%88%EF%B8%8F;AI%2FML+%7C+Cybersecurity+%7C+Drone+Systems+%F0%9F%9B%A1%EF%B8%8F%F0%9F%A4%96;Ex-DRDO+Intern" alt="Typing SVG" />
   </a>
-</p>
+</p> 
 
 ---
 
@@ -26,10 +26,6 @@ experience:
   - role: Defence Research Intern
     org: DRDO — Ministry of Defence, Govt. of India
     focus: Aerospace Software & Systems
-
-  - role: Corporate Lead
-    org: PlacFy
-    focus: Leadership & Campus Operations
 
 domains:
   - Aerospace Software & Systems
@@ -81,7 +77,6 @@ open_to: Internships | Research Collaborations | Hybrid/Remote Roles
 - 🛩️ **Aerospace Systems** — Building secure software for UAV/drone platforms
 - 🛡️ **Cybersecurity Research** — Threat analysis & vulnerability assessment for aerial systems
 - 🧠 **AI/ML for Defence** — Predictive health monitoring & intelligent fault detection
-- 🏢 **Corporate Leadership** — Leading campus operations at PlacFy
 
 ---
 
